@@ -25,7 +25,7 @@ To install via Git:
 		osascript -e 'tell app "TextMate" to reload bundles'
 
 The [ActionScript 3.tmbundle][as3_bundle] is also required. Once installed it needs
-be made aware of the Robotlegs bundle. This is done by adding 'ActionScript 3 Signals'
+be made aware of the Signals bundle. This is done by adding 'ActionScript 3 Signals'
 to the `TM_AS3_TEMPLATE_BUNDLES` variable of the 'Settings' preference in the
 'ActionScript 3' under **Bundles > Bundle Editor > Show Bundle Editor**.
 
