@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>ActionScript 3 Signals</string>
+	<key>ordering</key>
+	<array>
+		<string>D47451A7-82CA-4D1E-B7FE-94A74A2BCE7B</string>
+		<string>753CFA68-17D0-4662-85BE-3FBBD9BD2020</string>
+		<string>3DC1459E-15A6-4627-8D25-B6407A59F21A</string>
+	</array>
+	<key>uuid</key>
+	<string>5150CD19-1727-4E94-93CF-55AD2ACC841C</string>
+</dict>
+</plist>
